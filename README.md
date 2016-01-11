@@ -11,4 +11,4 @@ To run this script you need to to the following:
 
 P.S. I removed the names of the X axis in plot 4 and fixed the names of the Y axis to make the graphs look more consistent, so my plots slightly differ from the ones in the description
 
-P.P.S. I couldn't figure out how to delete rdpeng's "figures" folder, so please ignore that!
+P.P.S. I couldn't figure out how to delete rdpeng's "figure" folder, so please ignore that!

@@ -1,6 +1,6 @@
 #Exploratory Data Analysis
 
-This is my repository for the Coursera's course "Exploratory Data Analysis". Currently there are 8 files for the Course Project 1: 4 png pictures and 4 scripts to generate each.
+This is my repository for the Coursera's course "Exploratory Data Analysis". Currently there are 8 files for the Course Project 1: 4 png pictures (uploaded onto imgur, as I couldn't figure out how to upload the pictures directly onto github) and 4 scripts to generate each.
 
 To run this script you need to to the following:
 
@@ -11,24 +11,4 @@ To run this script you need to to the following:
 
 P.S. I removed the names of the X axis in plot 4 and fixed the names of the Y axis to make the graphs look more consistent, so my plots slightly differ from the ones in the description
 
-
-### Plot 1
-
-
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
-
-
-### Plot 2
-
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
-
-
-### Plot 3
-
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
-
-
-### Plot 4
-
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
+P.P.S. I couldn't figure out how to delete rdpeng's "figures" folder, so please ignore that!
